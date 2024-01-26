@@ -3,6 +3,6 @@ Python application with a 3-layered architecture: data access layer ([Domain pac
 
 The key concepts are heuristic methods and the Greedy local search technique.
 
-Application for the Greedy local search heuristic method which solves the shortest path problem. A project manager must arrive at a discussion with a potential client. His agenda is very busy, having a lot of meetings. Being pressed for time, he wants to take the shortest route to the customer's destination. Based on the address he has, the iMap app gives him several routes to reach his destination, each route marked with an estimated travel time. The application allows the following operations:
+Application to the shortest path problem using the Greedy local search heuristic method that solves. A project manager must arrive at a discussion with a potential client. His agenda is very busy, having a lot of meetings. Being pressed for time, he wants to take the shortest route to the customer's destination. Based on the address he has, the iMap app gives him several routes to reach his destination, each route marked with an estimated travel time. The application allows the following operations:
 1. Find the shortest path that starts from a location, visits all locations (each location is visited only once, except the start location which is visited exactly 2 times), and returns to the start location.
 2. Identify the shortest route that starts from one location (source) and arrives at another location (destination), each location in the route being visited only once.
