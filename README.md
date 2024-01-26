@@ -1,4 +1,4 @@
-# greedy-local-search
+# greedy-algorithms
 Python application with a 3-layered architecture: data access layer ([Domain package](https://github.com/Iri25/ai-greedy-Iri25/tree/master/Domain)), persistence layer ([Repository package](https://github.com/Iri25/ai-greedy-Iri25/tree/master/Repository)) and business layer ([Service package](https://github.com/Iri25/ai-greedy-Iri25/tree/master/Service)). The input and output data are saved in txt files ([Data package](https://github.com/Iri25/ai-greedy-Iri25/tree/master/Data)). To start the application, run in the [main.cpp](https://github.com/Iri25/ai-greedy-Iri25/blob/master/main.py) file.
 
 The key concepts are heuristic methods and the Greedy local search technique.
